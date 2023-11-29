@@ -1,0 +1,11 @@
+# Project Personal Goals
+- do something fun and useful.
+- don't stress yourself.
+- less is more.
+- prioritize by easy with high impact.
+- go slow and steady. 
+- quality over quantity (not perfect).
+- dose not have to be working
+- use Pomodoro
+---
+- “If I have seen further it is by standing on the shoulders of Giants” Isaac Newton
