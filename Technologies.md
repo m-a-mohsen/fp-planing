@@ -4,12 +4,14 @@ Project Description
 
 <em>[TODO.md spec & Kanban Board](https://bit.ly/3fCwKfM)</em>
 
-### Todo
+### Technology
 
-- [ ] hi  
+- [ ] Drag and drop  
+- [ ] MDX  
 
-### In Progress
+### To test
 
+- ## Will use  
 
 ### Done ✓
 
