@@ -1,4 +1,61 @@
 # Technical challenges
+- Css Framework
+    - CSS
+    - Tailwind
+- Css Component library
+    - Daisy UI
+    - Schadcn UI
+    - next UI
+- Javascript Framework
+    - Next app router
+    - Next Pages router 
+    - Astro
+    - Nextra
+    - Taxonomy (template)
+    - qwik
+- Javascript language
+    - Js
+    - Typescript
+- Markdown extension
+    - md
+    - mdx
+- Drag & drop library
+    - DnD kit
+    - beautiful react dnd
+    - 
+- Database
+    - Mongo DB
+    - Postgress
+- ORM - ODM
+    - mongo node driver
+    - Mongoose
+    - prisma
+- frontend to backend communication protocol
+    - rest API
+    - Graph Ql
+    - tRPC
+- Data fetching tool
+    - next fetch
+    - swr
+    - react query
+- State management tool
+    - zustand
+    - react context
+    - joti
+    - valtio
+- immutable state
+    - immer
+- Backend Automation tool 
+    - n8n
+    - make
+    - zapier
+- forms
+   - react-hook-form (https://www.react-hook-form.com/)
+- documentation
+    - Docusaurus (https://docusaurus.io/)
+
+
+
 - mdx / remote mdx
 - backend n8n
 - app router
@@ -6,4 +63,4 @@
 - swr
 - mongo DB
 - drag and drop
-- zustand (State manab gement)
+- zustand (State management)
