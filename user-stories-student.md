@@ -29,6 +29,3 @@ fixable and uncoupled use of technologies following a single source of truth. fo
 
 
 ### Acceptance Criteria
-
-database 
-
